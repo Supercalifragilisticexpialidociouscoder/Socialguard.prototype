@@ -1,0 +1,13 @@
+username,date,text,label
+@free_money_bot,2025-09-01,"Win free cash now! Click http://spam.link to claim!!!",bot
+@daily_news_x,2025-09-02,"Breaking: important update about local event.",genuine
+@promo_dealz,2025-09-03,"Buy now! limited offer, visit https://buy.link",bot
+@concerned_citizen,2025-09-04,"I saw this happening in my area, be careful everyone",genuine
+@repeat_postr,2025-09-05,"Same message Same message Same message",suspicious
+@ai_generated,2025-09-05,"Amazing breakthrough! read here http://ai.pub click",suspicious
+@authentic_conn,2025-09-06,"Great work by the volunteers today",genuine
+@fake_news_x,2025-09-07,"Government is lying about the incident!!! Read more!!!",suspicious
+@spam_linker,2025-09-07,"http://spam1 link http://spam2",bot
+@helpdesk_official,2025-09-08,"Contact our helpline if you need support",genuine
+@bot_shout,2025-09-08,"FOLLOW FOR FOLLOW FOLLOW",bot
+@new_user_01,2025-09-09,"Hello everyone, excited to join",genuine
